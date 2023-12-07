@@ -5,6 +5,8 @@ Cultura Digital Pec3 Irati Rodriguez
 
 En el mundo de la música, donde la diversidad sonora es tan grande como la imaginación humana, surge una herramienta que ha transformado la forma en que interactuamos con las melodías que nos rodean: Shazam. Esta aplicación, desarrollada por Shazam Entertainment Ltd., ha desencadenado una revolución musical al ofrecer a los usuarios la capacidad de identificar canciones con solo unos pocos compases. 
 
+![shazam](https://github.com/irodriguezantun/CulturaDigitalPec3/assets/151788897/3bba65bc-7270-45f3-98f5-583563803a95)
+
 En Shazam yace una proeza tecnológica conocida como fingerprinting acústico. Esta técnica permite que la aplicación cree una huella digital única para cada canción en su base de datos. A través de un análisis de las características acústicas clave, Shazam logra discernir incluso las melodías más extrañas, ofreciendo a los usuarios la capacidad de identificar canciones en tiempo real. La combinación de estas huellas digitales con metadatos detallados, como el título y el artista, representa una hibridación de datos que eleva la precisión de la identificación musical.
 
 Pero Shazam va más allá de la mera identificación de canciones al adoptar enfoques híbridos que integran diversos tipos de datos. La colaboración de usuarios, por ejemplo, se convierte en una pieza clave en esta aplicación. Al analizar patrones de escucha, preferencias y listas de reproducción, Shazam personaliza la experiencia musical de cada usuario, convirtiéndola en una experiencia única y adaptada a cada uno de sus usuarios.
