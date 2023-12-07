@@ -3,9 +3,9 @@ Cultura Digital Pec3 Irati Rodriguez
 
  "Shazam"
 
-En el mundo de la música, donde la diversidad sonora es tan grande como la imaginación humana, surge una herramienta que ha transformado la forma en que interactuamos con las melodías que nos rodean: Shazam. Esta aplicación, desarrollada por Shazam Entertainment Ltd., ha desencadenado una revolución musical al ofrecer a los usuarios la capacidad de identificar canciones con solo unos pocos compases. 
+ ![shazam](https://github.com/irodriguezantun/CulturaDigitalPec3/assets/151788897/3bba65bc-7270-45f3-98f5-583563803a95)
 
-![shazam](https://github.com/irodriguezantun/CulturaDigitalPec3/assets/151788897/3bba65bc-7270-45f3-98f5-583563803a95)
+En el mundo de la música, donde la diversidad sonora es tan grande como la imaginación humana, surge una herramienta que ha transformado la forma en que interactuamos con las melodías que nos rodean: Shazam. Esta aplicación, desarrollada por Shazam Entertainment Ltd., ha desencadenado una revolución musical al ofrecer a los usuarios la capacidad de identificar canciones con solo unos pocos compases. 
 
 En Shazam yace una proeza tecnológica conocida como fingerprinting acústico. Esta técnica permite que la aplicación cree una huella digital única para cada canción en su base de datos. A través de un análisis de las características acústicas clave, Shazam logra discernir incluso las melodías más extrañas, ofreciendo a los usuarios la capacidad de identificar canciones en tiempo real. La combinación de estas huellas digitales con metadatos detallados, como el título y el artista, representa una hibridación de datos que eleva la precisión de la identificación musical.
 
@@ -22,6 +22,8 @@ En resumen, Shazam ha tejido una sinfonía de tecnología y música, transforman
 
 
 "Power Automate"
+
+![genbil-microsoft-power-automate1](https://github.com/irodriguezantun/CulturaDigitalPec3/assets/151788897/7386e89c-ae01-4085-950a-929517e761fd)
 
 En mundo digital, donde las tareas diarias pueden convertirse en una gran perdida de tiempo y de dinero, emerge una herramienta que ha revolucionado la forma de abordar la automatización: Power Automate. Desarrollada por Microsoft, esta plataforma proporciona a los usuarios la capacidad de automatizar flujos de trabajo con gran simplicidad. 
 
