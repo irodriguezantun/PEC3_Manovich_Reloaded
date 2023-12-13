@@ -17,7 +17,7 @@ Manovich destaca la importancia de la hibridación para comprender los nuevos me
 A diferencia de la remediación, donde se traslada contenido o forma de un medio a otro manteniendo las características originales, la hibridación permite una interacción más profunda entre diferentes medios, generando algo nuevo y distintivo. La hibridación no es simplemente la suma de medios, sino la creación de algo novedoso. En los nuevos medios híbridos, la interactividad y la participación del usuario son centrales, brindando experiencias más inmersivas y personalizadas. Además, la hibridación impulsa la creación de nuevas formas de contar historias que combinan elementos tradicionales con interactividad y multimedia.
 
  ----   
-# **"Shazam"**
+# Re-descubriendo la hibridación: Shazam
 
  ![shazam](https://github.com/irodriguezantun/CulturaDigitalPec3/assets/151788897/3bba65bc-7270-45f3-98f5-583563803a95)
 
@@ -33,7 +33,7 @@ Lev Manovich, en su libro  *"El software toma el mando"*, explora cómo el softw
 
 ----
 
-# "Power Automate"
+# "Re-descubriendo la hibridación: Power Automate"
 
 ![genbil-microsoft-power-automate1](https://github.com/irodriguezantun/CulturaDigitalPec3/assets/151788897/7386e89c-ae01-4085-950a-929517e761fd)
 
@@ -51,4 +51,6 @@ En cuanto a la hibridación en Power Automate, podríamos decir que la plataform
 ----
 ### Referencias y Bibliografía
 
--   Libro (Proquest): MANOVICH, Lev. "El software toma el mando". Barcelona : Editorial UOC, 2013. Págs. 138─278. UOC Press. Comunicación #29. ISBN 978-84-9064-022-7
+-   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
+-   “Lev Manovich.” Wikipedia, La enciclopedia libre. 
+
