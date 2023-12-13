@@ -50,7 +50,8 @@ Power Automate es una herramienta clave en la transformación digital de las emp
 En cuanto a la hibridación en Power Automate, podríamos decir que la plataforma permite la integración de diferentes fuentes de datos, lo que representa una hibridación de datos que eleva la eficiencia operativa. La conexión con aplicaciones populares, servicios en la nube y herramientas de productividad crea una sinergia que mejora la eficiencia operativa. La hibridación de datos aquí se traduce en una capacidad para sincronizar información desde y hacia diversas plataformas, facilitando la creación de grandes flujos de trabajo que se adaptan a las necesidades específicas de cada uno de los usuarios. Además, la plataforma también permite la integración con AI Builder, una herramienta de Microsoft que permite agregar inteligencia a los procesos automatizados, predecir resultados y mejorar el rendimiento empresarial. 
 
 ----
-### Referencias y Bibliografía
+
+# Referencias y Bibliografía
 
 -   Manovich, Lev. (2013).  **"El Software toma el mando"**. Barcelona: Editorial UOC.
 -  **"Lev Manovich."** Wikipedia, La enciclopedia libre. 
