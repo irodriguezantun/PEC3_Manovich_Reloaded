@@ -6,7 +6,7 @@
 
 ----
 
-# "Lev Manovich y la hibridación"
+# Lev Manovich y la hibridación
 
 ![OIP (1)](https://github.com/irodriguezantun/PEC3_Manovich_Reloaded/assets/151788897/fae2c903-e198-4443-b2ce-e000f3a71416)
 
@@ -33,7 +33,7 @@ Lev Manovich, en su libro  *"El software toma el mando"*, explora cómo el softw
 
 ----
 
-# "Re-descubriendo la hibridación: Power Automate"
+# Re-descubriendo la hibridación: Power Automate
 
 ![genbil-microsoft-power-automate1](https://github.com/irodriguezantun/CulturaDigitalPec3/assets/151788897/7386e89c-ae01-4085-950a-929517e761fd)
 
