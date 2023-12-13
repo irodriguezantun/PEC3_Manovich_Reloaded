@@ -4,13 +4,16 @@
     Fecha: diciembre 2023
 
 # "Lev Manovich y la hibridación"
-Lev Manovich es un destacado teórico de nuevos medios y profesor de informática en la Universidad de Nueva York. Su obra "El software toma el mando" explora el papel fundamental del software al reemplazar tecnologías físicas, mecánicas y electrónicas en la creación, almacenamiento, distribución e interacción con objetos culturales. El libro proporciona una visión teórica e histórica del software en la autoría de medios, destacando sus efectos en la práctica y en el concepto mismo de "medios".
+
+![OIP (1)](https://github.com/irodriguezantun/PEC3_Manovich_Reloaded/assets/151788897/fae2c903-e198-4443-b2ce-e000f3a71416)
+
+Lev Manovich es un destacado teórico de nuevos medios y profesor de informática en la Universidad de Nueva York. Su obra *"El software toma el mando"* explora el papel fundamental del software al reemplazar tecnologías físicas, mecánicas y electrónicas en la creación, almacenamiento, distribución e interacción con objetos culturales. El libro proporciona una visión teórica e histórica del software en la autoría de medios, destacando sus efectos en la práctica y en el concepto mismo de "medios".
 
 Manovich destaca la importancia de la hibridación para comprender los nuevos medios y la cultura digital. Este concepto se refiere al proceso mediante el cual diferentes formas de medios y prácticas culturales se fusionan, creando nuevas formas híbridas que van más allá de los límites de los medios individuales. Los medios híbridos resultantes poseen características y capacidades únicas que no podrían lograrse por separado.
 
 A diferencia de la remediación, donde se traslada contenido o forma de un medio a otro manteniendo las características originales, la hibridación permite una interacción más profunda entre diferentes medios, generando algo nuevo y distintivo. La hibridación no es simplemente la suma de medios, sino la creación de algo novedoso. En los nuevos medios híbridos, la interactividad y la participación del usuario son centrales, brindando experiencias más inmersivas y personalizadas. Además, la hibridación impulsa la creación de nuevas formas de contar historias que combinan elementos tradicionales con interactividad y multimedia.
     
-# "Shazam"
+# **"Shazam"**
 
  ![shazam](https://github.com/irodriguezantun/CulturaDigitalPec3/assets/151788897/3bba65bc-7270-45f3-98f5-583563803a95)
 
