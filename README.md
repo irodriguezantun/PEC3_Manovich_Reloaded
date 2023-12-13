@@ -51,6 +51,6 @@ En cuanto a la hibridación en Power Automate, podríamos decir que la plataform
 ----
 ### Referencias y Bibliografía
 
--   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
--   “Lev Manovich.” Wikipedia, La enciclopedia libre. 
+-   Manovich, Lev. (2013).  **"El Software toma el mando"**. Barcelona: Editorial UOC.
+-  **"Lev Manovich."** Wikipedia, La enciclopedia libre. 
 
