@@ -4,6 +4,7 @@
     Fecha: diciembre 2023
     Grado: Técnicas de Interacción Digital y Multimedia
 
+----
 
 # "Lev Manovich y la hibridación"
 
@@ -14,9 +15,6 @@ Lev Manovich es un destacado teórico de nuevos medios y profesor de informátic
 Manovich destaca la importancia de la hibridación para comprender los nuevos medios y la cultura digital. Este concepto se refiere al proceso mediante el cual diferentes formas de medios y prácticas culturales se fusionan, creando nuevas formas híbridas que van más allá de los límites de los medios individuales. Los medios híbridos resultantes poseen características y capacidades únicas que no podrían lograrse por separado.
 
 A diferencia de la remediación, donde se traslada contenido o forma de un medio a otro manteniendo las características originales, la hibridación permite una interacción más profunda entre diferentes medios, generando algo nuevo y distintivo. La hibridación no es simplemente la suma de medios, sino la creación de algo novedoso. En los nuevos medios híbridos, la interactividad y la participación del usuario son centrales, brindando experiencias más inmersivas y personalizadas. Además, la hibridación impulsa la creación de nuevas formas de contar historias que combinan elementos tradicionales con interactividad y multimedia.
-
-
-
 
  ----   
 # **"Shazam"**
@@ -31,10 +29,6 @@ Pero Shazam va más allá de la mera identificación de canciones al adoptar enf
 Además, la integración con servicios de transmisión de música, lleva la experiencia más allá de la identificación, permitiendo así a los usuarios pasar sin problemas de la exploración, a la reproducción instantánea. Esta hibridación con plataformas de transmisión no solo facilita el acceso a la música, sino que también transforma la forma en que interactuamos con nuestras canciones favoritas.
 
 Lev Manovich, en su libro  *"El software toma el mando"*, explora cómo el software ha reemplazado muchas tecnologías físicas, mecánicas y electrónicas que se utilizaban para crear, almacenar, distribuir e interactuar con los objetos culturales. En este sentido, Shazam es un ejemplo de cómo el software ha transformado la forma en que interactuamos con la música. La aplicación utiliza una técnica conocida como fingerprinting acústico para crear una huella digital única para cada canción en su base de datos. A través de un análisis de las características acústicas clave, Shazam logra discernir incluso las melodías más extrañas, ofreciendo a los usuarios la capacidad de identificar canciones en tiempo real. La combinación de estas huellas digitales con metadatos detallados, como el título y el artista, representa una hibridación de datos que eleva la precisión de la identificación musical. Además, la integración con servicios de transmisión de música lleva la experiencia más allá de la identificación, permitiendo a los usuarios pasar sin problemas de la exploración a la reproducción instantánea. En resumen, Shazam es un ejemplo de cómo el software ha transformado la forma en que interactuamos con la música, y cómo la hibridación de datos puede mejorar la precisión y personalización de la experiencia musical de cada usuario.
-
-
-
-
 
 
 ----
@@ -53,7 +47,6 @@ La plataforma se transforma en un motor de productividad al hacer posible la cre
 Power Automate es una herramienta clave en la transformación digital de las empresas, ya que no se limita a la automatización básica, gracias a poder integrarla con otras herramientas de Microsoft, como Power BI y SharePoint, nos agrega capas adicionales de potencia y versatilidad, convirtiendo la plataforma en un gran catalizador para conseguir una gran eficiencia y así ayudar en la innovación.
 
 En cuanto a la hibridación en Power Automate, podríamos decir que la plataforma permite la integración de diferentes fuentes de datos, lo que representa una hibridación de datos que eleva la eficiencia operativa. La conexión con aplicaciones populares, servicios en la nube y herramientas de productividad crea una sinergia que mejora la eficiencia operativa. La hibridación de datos aquí se traduce en una capacidad para sincronizar información desde y hacia diversas plataformas, facilitando la creación de grandes flujos de trabajo que se adaptan a las necesidades específicas de cada uno de los usuarios. Además, la plataforma también permite la integración con AI Builder, una herramienta de Microsoft que permite agregar inteligencia a los procesos automatizados, predecir resultados y mejorar el rendimiento empresarial. 
-
 
 ----
 ### Referencias y Bibliografía
