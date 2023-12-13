@@ -1,6 +1,9 @@
 # Cultura Digital Pec3
-#### Irati Rodriguez Antunez
+#### Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
+    Autor: Irati Rodriguez Antunez
+    Fecha: diciembre 2023
 
+    
 # "Shazam"
 
  ![shazam](https://github.com/irodriguezantun/CulturaDigitalPec3/assets/151788897/3bba65bc-7270-45f3-98f5-583563803a95)
