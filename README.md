@@ -16,7 +16,8 @@ Manovich destaca la importancia de la hibridación para comprender los nuevos me
 
 A diferencia de la remediación, donde se traslada contenido o forma de un medio a otro manteniendo las características originales, la hibridación permite una interacción más profunda entre diferentes medios, generando algo nuevo y distintivo. La hibridación no es simplemente la suma de medios, sino la creación de algo novedoso. En los nuevos medios híbridos, la interactividad y la participación del usuario son centrales, brindando experiencias más inmersivas y personalizadas. Además, la hibridación impulsa la creación de nuevas formas de contar historias que combinan elementos tradicionales con interactividad y multimedia.
 
- ----   
+ ---- 
+ 
 # Re-descubriendo la hibridación: Shazam
 
  ![shazam](https://github.com/irodriguezantun/CulturaDigitalPec3/assets/151788897/3bba65bc-7270-45f3-98f5-583563803a95)
