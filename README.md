@@ -14,6 +14,10 @@ Lev Manovich es un destacado teórico de nuevos medios y profesor de informátic
 
 Manovich destaca la importancia de la hibridación para comprender los nuevos medios y la cultura digital. Este concepto se refiere al **proceso mediante el cual diferentes formas de medios y prácticas culturales se fusionan, creando nuevas formas híbridas que van más allá de los límites de los medios individuales.** Los medios híbridos resultantes poseen características y capacidades únicas que no podrían lograrse por separado.
 
+>
+>El resultado de la **hibridación** no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva "especie": un nuevo tipo de estética visual que no existía antes.  — **(Manovich, 2013)**.
+>
+
 A diferencia de la remediación, donde se traslada contenido o forma de un medio a otro manteniendo las características originales, la hibridación permite una interacción más profunda entre diferentes medios, generando algo nuevo y distintivo. La hibridación no es simplemente la suma de medios, sino la creación de algo novedoso. En los nuevos medios híbridos, la interactividad y la participación del usuario son centrales, brindando experiencias más inmersivas y personalizadas. Además, la hibridación impulsa la creación de nuevas formas de contar historias que combinan elementos tradicionales con interactividad y multimedia.
 
  ---- 
@@ -21,6 +25,7 @@ A diferencia de la remediación, donde se traslada contenido o forma de un medio
 # Re-descubriendo la hibridación: Shazam
 
  ![shazam](https://github.com/irodriguezantun/CulturaDigitalPec3/assets/151788897/3bba65bc-7270-45f3-98f5-583563803a95)
+ [**Visitar Shazam**](https://www.shazam.com/)
 
 En el mundo de la música, donde la diversidad sonora es tan grande como la imaginación humana, surge una herramienta que ha transformado la forma en que interactuamos con las melodías que nos rodean: Shazam. Esta aplicación, desarrollada por Shazam Entertainment Ltd., ha desencadenado una revolución musical al ofrecer a los usuarios la capacidad de identificar canciones con solo unos pocos compases.
 
@@ -37,6 +42,7 @@ Lev Manovich, en su libro  *"El software toma el mando"*, explora cómo el softw
 # Re-descubriendo la hibridación: Power Automate
 
 ![genbil-microsoft-power-automate1](https://github.com/irodriguezantun/CulturaDigitalPec3/assets/151788897/7386e89c-ae01-4085-950a-929517e761fd)
+ [**Visitar Power Automate**](https://www.microsoft.com/es-es/power-platform/products/power-automate?ef_id=_k_8a9022255e431e302f0247a5501fca9a_k_&OCID=AIDcmmbsvlkrlx_SEM__k_8a9022255e431e302f0247a5501fca9a_k_&msclkid=8a9022255e431e302f0247a5501fca9a)
 
 En mundo digital, donde las tareas diarias pueden convertirse en una gran perdida de tiempo y de dinero, emerge una herramienta que ha revolucionado la forma de abordar la automatización: Power Automate. Desarrollada por Microsoft, esta plataforma proporciona a los usuarios la capacidad de automatizar flujos de trabajo con gran simplicidad.
 En el núcleo de Power Automate encontraremos la manera de simplificar tareas a través de flujos de trabajo automatizados. Su interfaz intuitiva permite a los usuarios crear, personalizar y gestionar flujos de trabajo sin necesidad de habilidades de programación. Gracias a ello, Power Automate hace que la automatización de tareas sea accesible para todos.
@@ -53,6 +59,8 @@ En cuanto a la hibridación **en Power Automate, podríamos decir que la platafo
 
 # Referencias y Bibliografía
 
--   Manovich, Lev. (2013).  **"El Software toma el mando"**. Barcelona: Editorial UOC.
--  **"Lev Manovich."** Wikipedia, La enciclopedia libre. 
-
+-  Manovich, L. (2013).  *"El Software toma el mando"*. Barcelona: Editorial UOC.
+-  Lev Manovich. (s.f.) *Wikipedia, La enciclopedia libre.*
+-  Shazam. (s.f.). *Shazam.* 
+-  Microsoft. (s.f.). *Power Automate.* 
+  
